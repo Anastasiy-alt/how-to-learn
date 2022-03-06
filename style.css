@@ -31,7 +31,6 @@
 
 .header__title {
   display: flex;
-  font-size: 96px;
   margin-left: 64px;
   width: 730px;
   align-items: center;
@@ -117,9 +116,9 @@
 .digits {
   display: flex;
   align-items: center;
-  align-content: center; 
-  justify-content: center; 
-  overflow: auto;   
+  align-content: center;
+  justify-content: center;
+  overflow: auto;
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
@@ -229,8 +228,7 @@
   display: flex;
   align-items: center;
   align-content: center; 
-  justify-content: center; 
-  overflow: auto;   
+  justify-content: center;  
   flex-wrap: wrap;
   background-color: #1f1f1f;
   color: white;
