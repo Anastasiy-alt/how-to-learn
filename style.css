@@ -63,7 +63,6 @@
   right: 0px;
   z-index: 1;
 }
-
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -71,7 +70,6 @@
   position: absolute;
   top: 64px;
   right: 0px;} /*вроде все размеры как в ТЗ, но внешний вид отличается (может это из-за размера экрана оно отражается по-другому), в чём может быть проблема?*/
-
   .description {
   display: flex;
   justify-content: center;
