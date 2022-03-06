@@ -227,8 +227,8 @@
   padding: 0;
   display: flex;
   align-items: center;
-  align-content: center; 
-  justify-content: center;  
+  align-content: center;
+  justify-content: center;
   flex-wrap: wrap;
   background-color: #1f1f1f;
   color: white;
@@ -248,10 +248,10 @@
 .table__theme_dark {
   display: flex;
   align-items: flex-start;
-  align-content: space-between; 
-  justify-content: space-between; 
-  overflow: auto;  
-  flex-flow: row wrap; 
+  align-content: space-between;
+  justify-content: space-between;
+  overflow: auto;
+  flex-flow: row wrap;
   margin-left: auto;
   margin-right: auto;
   width: 1100px;
@@ -297,7 +297,7 @@
   flex-basis: 711px;
   width: 90%;
   position: absolute;
-  top: 60px;  
+  top: 60px;
   bottom: 40px;
   display: flex;
   flex-direction: row;
@@ -343,7 +343,7 @@
   color: white;
   font-size: 18px;
   line-height: 30px;
-  font-weight: normal; 
+  font-weight: normal;
 }
 
 .footer__column_content_social {
