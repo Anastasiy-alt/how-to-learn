@@ -35,7 +35,7 @@
   padding: 0;
   display: flex;
   margin-left: 64px;
-  max-width: 730px; 
+  max-width: 730px;
   width: 100%;
   align-items: center;
   flex-direction: row;
@@ -216,7 +216,6 @@
 }
 
 .feynman__title {
-  margin: 0px;
   padding: 0px;
   font-size: 120px;
   line-height: 1.15;
@@ -399,7 +398,6 @@
   font-size: 18px;
   line-height: 30px;
   font-weight: normal;
-  text-decoration: none;
 }
 
 .footer__column_content_social {
