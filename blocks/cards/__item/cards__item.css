@@ -1,0 +1,10 @@
+.cards__item {
+    align-self: stretch;
+    width: 240px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.cards__item:nth-child(3n+1) {
+    margin: 0;
+}
