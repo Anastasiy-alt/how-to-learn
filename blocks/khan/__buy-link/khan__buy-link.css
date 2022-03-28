@@ -1,11 +1,12 @@
 .khan__buy-link {
     margin: 0;
     padding: 0;
-    padding-left: 48px;
+    margin-left: 48px;
     text-decoration: none;
     font-size: 30px;
     line-height: 42px;
     font-weight: normal;
     color: #2f80ed;
     padding-bottom: 0;
+    align-self: flex-start;
 }
